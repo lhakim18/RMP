@@ -1,0 +1,125 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. John Smith",
+        "subject": "Economics",
+        "stars": 4,
+        "review": "Dr. Smith is knowledgeable and explains concepts clearly, but the exams are tough."
+      },
+      {
+        "professor": "Prof. Emily Johnson",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Prof. Johnson is amazing! Her lectures are engaging, and she's very approachable."
+      },
+      {
+        "professor": "Dr. Mark Thompson",
+        "subject": "Mathematics",
+        "stars": 3,
+        "review": "Dr. Thompson knows his stuff, but his teaching style is a bit dry."
+      },
+      {
+        "professor": "Prof. Sarah Lee",
+        "subject": "Biology",
+        "stars": 5,
+        "review": "Prof. Lee is excellent! She makes complex topics easy to understand."
+      },
+      {
+        "professor": "Dr. Alan Brown",
+        "subject": "History",
+        "stars": 2,
+        "review": "Dr. Brown is a tough grader and expects a lot from students."
+      },
+      {
+        "professor": "Prof. Lisa White",
+        "subject": "Chemistry",
+        "stars": 4,
+        "review": "Prof. White is great, but the labs can be overwhelming."
+      },
+      {
+        "professor": "Dr. James Green",
+        "subject": "Physics",
+        "stars": 5,
+        "review": "Dr. Green is fantastic! He explains everything so well."
+      },
+      {
+        "professor": "Prof. Amanda Davis",
+        "subject": "Literature",
+        "stars": 4,
+        "review": "Prof. Davis is passionate about literature, but the reading load is heavy."
+      },
+      {
+        "professor": "Dr. Robert Miller",
+        "subject": "Computer Science",
+        "stars": 3,
+        "review": "Dr. Miller is knowledgeable, but his lectures can be hard to follow."
+      },
+      {
+        "professor": "Prof. Laura Wilson",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Prof. Wilson is amazing! She really cares about her students."
+      },
+      {
+        "professor": "Dr. William Harris",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Dr. Harris is strict and expects a lot from his students."
+      },
+      {
+        "professor": "Prof. Nancy Clark",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Prof. Clark is very insightful, but the material is challenging."
+      },
+      {
+        "professor": "Dr. Michael Lewis",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Dr. Lewis is okay, but the lectures can be monotonous."
+      },
+      {
+        "professor": "Prof. Karen Young",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Prof. Young is fantastic! Her passion for art is contagious."
+      },
+      {
+        "professor": "Dr. Kevin Adams",
+        "subject": "Engineering",
+        "stars": 4,
+        "review": "Dr. Adams is a great professor, but his exams are difficult."
+      },
+      {
+        "professor": "Prof. Rebecca Martin",
+        "subject": "Business Management",
+        "stars": 5,
+        "review": "Prof. Martin is excellent! She provides real-world examples that are very helpful."
+      },
+      {
+        "professor": "Dr. Charles King",
+        "subject": "Environmental Science",
+        "stars": 3,
+        "review": "Dr. King is knowledgeable, but his lectures can be a bit boring."
+      },
+      {
+        "professor": "Prof. Olivia Scott",
+        "subject": "Anthropology",
+        "stars": 4,
+        "review": "Prof. Scott is great, but the material can be dense."
+      },
+      {
+        "professor": "Dr. Richard Perez",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Dr. Perez is fantastic! His classes are interesting and engaging."
+      },
+      {
+        "professor": "Prof. Patricia Collins",
+        "subject": "Economics",
+        "stars": 2,
+        "review": "Prof. Collins is a tough grader and her lectures can be confusing."
+      }
+    ]
+  }
+  
